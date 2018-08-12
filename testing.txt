@@ -1,0 +1,36 @@
+<head><style>
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+body {
+  background: url('http://globalmedicalco.com/photos/globalmedicalco/10/45686.jpg');
+  font-family: Indie Flower, serif;}
+
+div {
+  height: 19px; width: 90%;
+   background: black;
+   margin: 50px auto;
+   border-radius: 5px; 
+   }
+
+p {
+  color: white;
+  text-align: center;
+  letter-spacing: 20px;
+  font-size: 69px;
+}
+
+#lit {
+  animation-name: rainbow;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;}
+@keyframes rainbow {
+  0% {background-color: white;}
+  50% {background-color: purple;}
+  100% {background-color: blue;}
+}
+
+</style></head>
+<h1><body>
+  <p><BR>get fucked.</p>
+    
+  <div id="lit"></div>
+  </body></h1>
